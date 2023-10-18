@@ -1,4 +1,4 @@
-name: 'Labeler'
+name: Majed.kh
 description: 'Automatically label new pull requests based on the paths of files being changed'
 author: 'GitHub'
 inputs:
